@@ -1,144 +1,18 @@
-# Hi there, I'm Johann 👋
+# 💫 About Me:
+🔭 I’m currently working on AI-powered applications and full-stack projects<br>👯 I’m looking to collaborate on AI/ML, robotics, IoT, and software projects<br>🤝 I’m looking for help with advanced AI and autonomous systems<br>🌱 I’m currently learning LLMs, AI agents, cloud architecture, and robotics<br>💬 Ask me about Python, React, Laravel, FastAPI, AI/ML, and embedded systems<br>⚡ Fun fact: I love turning ideas into projects that combine code, AI, and hardware
 
-### Computer Engineer • Software Developer • AI/ML & Robotics Enthusiast
 
-I'm a **Computer Engineering graduate** passionate about building practical systems that combine **software, artificial intelligence, cloud technologies, and embedded hardware**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.kwisha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johanncuisia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johannmaier.cuisia@gmail.com) 
 
-I enjoy turning ideas into working products — from full-stack web applications and AI-powered platforms to autonomous robots and IoT systems.
-
----
-
-## 🚀 What I Work With
-
-```text
-Languages       Python • JavaScript • PHP • Java • SQL • HTML/CSS
-
-Frontend        React • Vite
-
-Backend         Laravel • FastAPI • Flask
-
-AI / ML         LLM Integration • Semantic Search • Embeddings
-                Random Forest • NLP
-
-Cloud           AWS • Microsoft Azure • Firebase
-
-Databases       PostgreSQL • SQL • Firebase
-
-Embedded        ESP32 • Arduino • Raspberry Pi • LoRa
-                Sensors • Microcontrollers
-
-Other           Git • REST APIs • Graphic Design • Project Management
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=j-kwisha&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=j-kwisha&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=j-kwisha&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=j-kwisha&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🔭 Featured Projects
-
-### 🤖 Lily — Autonomous Robotic Assistant
-
-An autonomous robotic assistant designed for campus environments.
-
-* Autonomous navigation and obstacle avoidance
-* LiDAR + ultrasonic/infrared sensor integration
-* ESP32 + Raspberry Pi 5 architecture
-* Autonomous self-docking and battery recharging
-* Sensor fusion for navigation
-* Achieved **87.58% obstacle avoidance accuracy** and **90% autonomous docking accuracy**
-
-> Undergraduate thesis project focused on affordable autonomous robotics.
-
----
-
-### 🧠 IntelliLearn — AI-Powered Learning Management System
-
-A full-stack LMS combining traditional learning management features with AI and predictive analytics.
-
-* Laravel + React + FastAPI architecture
-* PostgreSQL database
-* Role-based authentication for Admin, Instructor, and Student
-* Random Forest model for identifying at-risk students
-* AI chatbot powered by Groq LLaMA 3.1
-* PDF-aware course Q&A
-* Personalized learning recommendations
-* Real-time risk dashboards
-* Gmail SMTP verification and password recovery
-* Three-service architecture with Laravel API, React SPA, and Python AI microservice
-
----
-
-### 📄 PoliSync AI — Automated Policy Diff & Querying
-
-An AI-powered document analysis system for comparing policy documents.
-
-* PDF text extraction with PyMuPDF
-* NLP-based document chunking
-* SentenceTransformer embeddings
-* Semantic search using cosine similarity
-* AI-powered document querying
-* PDF upload and chat interface
-* Voice recognition and text-to-speech
-* Automated summarization of policy changes
-
----
-
-### 📡 Ugnay — LoRa Emergency Communication System
-
-A disaster-response communication system designed to work when cellular networks are unavailable.
-
-* ESP32 + LoRa communication
-* Rescuer and victim devices
-* Long-range, low-power communication
-* Emergency alerts and location signals
-* Mobile application integration
-
----
-
-## 🛠️ Other Projects
-
-* 🌱 **Automated Self-Sustaining Plant System** — IoT-based plant monitoring using Arduino, Raspberry Pi, and environmental sensors.
-* 🗑️ **Automated Trash Sorter** — Sensor-based waste classification and embedded control.
-* 🅿️ **Park Bot** — Automated parking system with React interface and Microsoft Azure backend.
-* 📱 **ICare** — Mobile application connecting Parkinson's patients with neurologists.
-* 📚 **Library Thesis Access System** — Web platform for thesis archive management using PHP and SQL.
-
----
-
-## 🏆 Certifications & Achievements
-
-* ☁️ **AWS Certified Cloud Practitioner**
-* ☁️ **AWS Academy Graduate — Cloud Foundation Training**
-* 💻 **CompTIA IT Fundamentals (ITF+)**
-* 🏅 **Giga 25 Finalist — Smart Innogen by PLDT and Smart**
-
----
-
-## 🎓 Background
-
-**Bachelor of Science in Computer Engineering**
-José Rizal University — 2026
-
-I've also worked with robotics development through my internship at **RAKSO CT**, supporting hardware integration, embedded systems, and robotics operations.
-
----
-
-## 🌱 Currently Interested In
-
-* Artificial Intelligence & LLM applications
-* Full-stack development
-* Cloud-native applications
-* Robotics & autonomous systems
-* Embedded systems & IoT
-* Computer vision and intelligent systems
-* Software architecture
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/johanncuisia)
-
-I'm always interested in **interesting projects, collaboration, and opportunities to build useful technology.**
-
----
-
-⭐ If you find something interesting in my repositories, feel free to explore!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
