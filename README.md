@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications and full-stack projects<br>👯 I’m looking to collaborate on AI/ML, robotics, IoT, and software projects<br>🤝 I’m looking for help with advanced AI and autonomous systems<br>🌱 I’m currently learning LLMs, AI agents, cloud architecture, and robotics<br>💬 Ask me about Python, React, Laravel, FastAPI, AI/ML, and embedded systems<br>⚡ Fun fact: I love turning ideas into projects that combine code, AI, and hardware
+I'm a Computer Engineering graduate passionate about software development, AI/ML, cloud technologies, and robotics. I enjoy building practical, end-to-end systems—from full-stack applications and AI-powered platforms to embedded and autonomous robotic systems. I'm always looking to learn, build, and work on meaningful technology.
+
 
 
 ## 🌐 Socials:
